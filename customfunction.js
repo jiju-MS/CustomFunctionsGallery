@@ -1,1 +1,3 @@
-// CustomFunction Gallery Javascript File
+function addThreeNumbers(a, b, c) {
+	return a + b + c;
+}
