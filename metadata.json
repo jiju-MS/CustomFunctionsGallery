@@ -1,0 +1,30 @@
+{
+    "functions": [
+      {
+        "id": "addThreeNumbers",
+        "name": "addThreeNumbers",
+        "description": "Adds three numbers",
+        "helpUrl": "http://dev.office.com",
+        "result": {
+          "type": "number"
+        },
+        "parameters": [
+          {
+            "name": "a",
+            "description": "First",
+            "type": "number"
+          },
+          {
+            "name": "b",
+            "description": "Second",
+            "type": "number"
+          },
+          {
+            "name": "c",
+            "description": "Third",
+            "type": "number"
+          }
+        ]
+      }
+    ]
+}
